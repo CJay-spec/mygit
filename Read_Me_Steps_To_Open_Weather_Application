@@ -1,0 +1,5 @@
+Steps to open Weather App:
+
+a) Open PyCharm
+b) Insert command in the PyCharm terminal "python manage.py runserver"
+c) Go to the web address server provided
